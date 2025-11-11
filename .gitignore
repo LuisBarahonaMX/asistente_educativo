@@ -1,0 +1,8 @@
+node_modules/
+dist/
+build/
+.env
+firebase-debug.log
+.vscode/
+.idea/
+.DS_Store
